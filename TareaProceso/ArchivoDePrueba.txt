@@ -1,0 +1,5 @@
+
+El proceso con PID: 9385 escribio el mensaje: Mensaje del proceso inicial
+El proceso con PID: 9392 escribio el mensaje: Mensaje del segundo proceso
+El proceso con PID: 9395 escribio el mensaje: Mensaje del proceso 3
+El proceso con PID: 9385 escribio el mensaje: Segundo mensaje del proceso incial
